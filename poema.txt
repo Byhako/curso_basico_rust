@@ -1,0 +1,5 @@
+Hola desde Linux Mint, estoy aprendiendo Rust y me gusta mucho.
+
+Ahora aprendere mucho más practicando todos los días.
+
+Estudiando mucho lograré ser el mejor programador del mundo!
